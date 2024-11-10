@@ -369,12 +369,14 @@ a {
     gap: 0px;
     margin-top: 48px;
     margin-bottom: 120px;
+    margin-left: 0px;
   }
 
   .about-us-parag{
     font-size: 15px;
     margin-top: 14px;
     text-align:center;
+    padding-right: 0px;
   }
 
   .top-margin-parag{
