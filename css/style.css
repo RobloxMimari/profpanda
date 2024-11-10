@@ -60,10 +60,8 @@ nav {
   border-top: 0px;
 }
 
-.image-placeholder {
-  background-color: black;
-  width: 320px;
-  height: 400px;
+.image-border {
+  border: 2px solid black;
 }
 
 .inner-lander-div {
@@ -197,6 +195,21 @@ a {
   font-weight: 500;
 }
 
+.about-us-parag{
+  text-align: justify;
+  line-height: 1.4em;
+  font-size: 16px;
+  padding-right: 34px;
+}
+
+.top-margin-parag{
+  margin-top: 60px;
+}
+
+
+
+
+
 
 @media only screen and (max-width: 1400px) {
   .landing-div {
@@ -244,6 +257,14 @@ a {
     padding: 10px 10px 10px 10px;
   }
 }
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 700px) {
   body {
@@ -347,5 +368,16 @@ a {
     padding: 0 0 0 0;
     gap: 0px;
     margin-top: 48px;
+    margin-bottom: 120px;
+  }
+
+  .about-us-parag{
+    font-size: 15px;
+    margin-top: 14px;
+    text-align:center;
+  }
+
+  .top-margin-parag{
+    margin-top: 100px;
   }
 }
