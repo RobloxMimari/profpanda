@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap");
 
 body {
-  font-family: "Lexend Exa", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 * {
@@ -86,7 +86,7 @@ nav {
 .sub-header,
 .button,
 a {
-  font-family: "Lexend Exa", sans-serif;
+  font-family: "Inter", sans-serif;
   letter-spacing: -0.07em;
   text-decoration: none;
 }
