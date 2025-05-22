@@ -203,7 +203,8 @@ a {
 }
 
 .subject-header{
-  font-size:27px;
+  font-size:21px;
+  text-transform: uppercase;
 }
 
 .side-header {
@@ -460,7 +461,8 @@ a {
   }
 
   .subject-header{
-    font-size:24px;
+    font-size:18px;
+    text-transform: uppercase;
   }
 
   .side-header,
