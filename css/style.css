@@ -154,6 +154,8 @@ a {
 }
 
 .flowchart-invert{
+  margin: auto;
+  width: auto;
   filter: invert(100%);
   border-radius: 32px;
 }
