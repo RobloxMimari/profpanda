@@ -195,7 +195,7 @@ a {
 
 .subject-paragraph {
   width: 380px;
-  font-size: 1em;
+  font-size: 12px;
   margin-top: 8px;
   padding-bottom: 16px;
   padding-right: 35px;
@@ -319,7 +319,7 @@ a {
 
   .subject-paragraph {
     width: 310px;
-    font-size: 1em;
+    font-size: 12px;
     margin-top: 8px;
     padding-bottom: 16px;
     padding-right: 35px;
@@ -459,7 +459,7 @@ a {
   }
 
   .subject-header{
-    font-size:12px;
+    font-size:14px;
   }
 
   .side-header,
