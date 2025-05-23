@@ -147,7 +147,10 @@ a {
   justify-content: center;
 }
 
-
+.flowchart{
+  display: block;
+  margin: auto;
+}
 
 .sub-container-left {
   width: 660px;
