@@ -150,6 +150,7 @@ a {
 .flowchart{
   display: block;
   margin: auto;
+  width: auto;
 }
 
 .sub-container-left {
