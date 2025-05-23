@@ -153,6 +153,10 @@ a {
   width: auto;
 }
 
+.flowchart-invert{
+  filter: invert(100%);
+}
+
 .sub-container-left {
   width: 660px;
   display: flex;
