@@ -155,6 +155,7 @@ a {
 
 .flowchart-invert{
   filter: invert(100%);
+  border-radius: 32px;
 }
 
 .sub-container-left {
